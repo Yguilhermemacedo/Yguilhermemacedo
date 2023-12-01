@@ -12,4 +12,10 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
+</div><br>
+
+
+#### Atualmente estudando <strong style="color:#2E98E8">Front End</strong> na <a href="https://github.com/alura-cursos" style="color:blue">Alura</a>  e desenvolvendo projetos pessoais, com foco sempre na evolução na programação em minha carreira.  👾
+
+
+
