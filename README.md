@@ -14,6 +14,7 @@
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div><br>
 
+### - Focado
 
 #### Atualmente estudando <strong style="color:#2E98E8">Front End</strong> na <a href="https://github.com/alura-cursos" style="color:blue">Alura</a>  e desenvolvendo projetos pessoais, com foco sempre na evolução na programação em minha carreira.  👾
 
